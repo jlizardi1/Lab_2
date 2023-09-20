@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(194, 202, 157) ;
+    background-color: rgb(204, 177, 143) ;
     font-size: 1em;
 
 }
@@ -42,13 +42,16 @@ input{
 #form{
     position: absolute;
     text-align:center;
-    top:40%;
-    left: 25%;
+    width:500px;
+    padding: 20px;    
     border: 0.2em solid black;
     padding-left: 3%;
     padding-right: 3%;
     background-color: rgb(128, 68, 68);
-    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
 
 
 }
