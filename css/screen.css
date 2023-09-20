@@ -42,7 +42,7 @@ input{
 #form{
     position: absolute;
     text-align:center;
-    width:500px;
+    max-width:500px;
     padding: 20px;    
     border: 0.2em solid black;
     padding-left: 3%;
